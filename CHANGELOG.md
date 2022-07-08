@@ -1,4 +1,4 @@
-<a href="https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/Jourmby.png"><img src="/images/Journey Together Banner3.webp" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/Lost-Outpost/journey-together/main/images/Jourmby.png"><img src="/images/Journey Together Banner3.webp" target="_blank"></a>
 
 ---
 

@@ -1,4 +1,4 @@
-<a href="https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/Jourmby.png"><img src="/images/Journey Together Banner3.webp" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/Lost-Outpost/journey-together/main/images/Jourmby.png"><img src="/images/Journey Together Banner3.webp" target="_blank"></a>
 
 ---
 
@@ -21,7 +21,7 @@ Journey Together comes with two profiles in MO2. Journey Together and Journey To
 
 Select the profile you want here:
 
-![Profiles](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/config-profiles.png)
+![Profiles](https://raw.githubusercontent.com/Lost-Outpost/journey-together/main/images/config-profiles.png)
 
 ## Anniversary Edition
 
@@ -36,7 +36,7 @@ The Anniversary Edition profile requires a copy of all of the creation club mod 
 
 When Creation Club content has been set up correctly, your Journey Together MO2 will look like this:
 
-![Anniversary Edition](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/config%20-%20ae%20enabled.png)
+![Anniversary Edition](https://raw.githubusercontent.com/Lost-Outpost/journey-together/main/images/config%20-%20ae%20enabled.png)
 
 ## ENB Organizer
 Journey Together includes the tool ENB Organizer for trying out different ENB and ReShade presets.
@@ -44,13 +44,13 @@ Journey Together includes the tool ENB Organizer for trying out different ENB an
 To change ENB or ReShade presets:
 - Run ENB Organizer from the left side bar in Mod Organizer 2 or from the exe list on the top right.
 
-![Executables](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/config-exemenu.png)
+![Executables](https://raw.githubusercontent.com/Lost-Outpost/journey-together/main/images/config-exemenu.png)
 
 - If ENB Organizer gives a warning about being unable to check for updates, click okay and ignore it.
 - In the left side menu, go to `Presets`.
 - Disable the currently enabled preset and then enable the one you wish to use.
 
-![ENB Organizer](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/config-enborganizer.png)
+![ENB Organizer](https://raw.githubusercontent.com/Lost-Outpost/journey-together/main/images/config-enborganizer.png)
 
 > Do not enable more than one preset at a time. If you want to enable the included Rudy ENB, you must enable `Rudy ENB - Required Files` under `Optionals` in MO2 and move the `Obsidian Weathers - Patch - Rudy ENB.esb` below `Obsidian Weathers.esp` in the plugins list.
 
@@ -60,8 +60,8 @@ To change ENB or ReShade presets:
 
 Journey Together's default graphics settings are set to its `Medium` preset. For better performance or visuals, you can select one of the other included graphics configs included in the `Journey Together/Graphics Presets` folder into the `Profiles/[Journey Together]/[Journey Together - Anniversary Edition]` profile folder that you are using.
 
-![Graphics Options](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/graphics-options.png)
-![Graphics Options](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/graphics-options2.png)
+![Graphics Options](https://raw.githubusercontent.com/Lost-Outpost/journey-together/main/images/graphics-options.png)
+![Graphics Options](https://raw.githubusercontent.com/Lost-Outpost/journey-together/main/images/graphics-options2.png)
 
 Double click on `SSE Display Tweaks - Journey Together Settings` under `Patches & Fixes` and set the resolution to match your monitor resolution and remove the # at the start of the line.
 
