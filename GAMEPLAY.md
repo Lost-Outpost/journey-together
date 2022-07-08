@@ -1,15 +1,15 @@
-<a href="https://raw.githubusercontent.com/SiraMirai/journey/main/images/Jourmby.png"><img src="/images/Journey Banner3.webp" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/Jourmby.png"><img src="/images/Journey Together Banner3.webp" target="_blank"></a>
 
 ---
 
 <p align="center">
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/SiraMirai/journey/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/SiraMirai/journey-together/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/SiraMirai/journey-together/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
 </p>
 
 ---
 # Gameplay Guide
 
-Journey is designed to provide a performance friendly but still aesthetically pleasing upgrade to Skyrim's visuals. This same philosophy extends into its gameplay changes  through a curated list of included gameplay mods along with a few select new quests and places to explore.
+Journey Together is designed to provide a performance friendly but still aesthetically pleasing upgrade to Skyrim's visuals. This same philosophy extends into its gameplay changes  through a curated list of included gameplay mods along with a few select new quests and places to explore.
 
 - [Hotkeys](#hotkeys)
 - [Quick Start](#optional-quick-start)
@@ -47,13 +47,13 @@ These hotkeys only apply when using an ENB
 
 ## Optional Quick Start
 
-Journey includes a customized version of [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953), which you can use to begin your journey past the intro with a given assortment of starting spells and equipment meant to mirror having gone through the tradtional cart ride.
+Journey Together includes a customized version of [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953), which you can use to begin your journey-together past the intro with a given assortment of starting spells and equipment meant to mirror having gone through the tradtional cart ride.
 
 ## Gameplay Overhaul
 
-The core of Journey's gameplay experience is built around the [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746) gameplay overhaul. SimonRim keeps the core of what makes Skyrim's various systems design philisophy and enhances the flow of gameplay and balance.
+The core of Journey Together's gameplay experience is built around the [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746) gameplay overhaul. SimonRim keeps the core of what makes Skyrim's various systems design philisophy and enhances the flow of gameplay and balance.
 
-The full SimonRim experience is included in Journey:
+The full SimonRim experience is included in Journey Together:
 
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) - A rework of races that replaces active greater powers with more powerful passive abilities.
 - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) - An overhaul to magic to balance existing and fill in the gaps with new spells and effects.
@@ -69,11 +69,11 @@ The full SimonRim experience is included in Journey:
 - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) - An overhaul of enchanting to rebalance and fix the many issues within enchanting.
 
 
-In addition to SimonRim, Journey rounds out the experience with:
+In addition to SimonRim, Journey Together rounds out the experience with:
 
 - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) - An overhaul to the loot distribution to create a more refined open world experience with a better sense of progression.
 - [Skyrim Skill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/8889) - A plugin that allows for skills to be uncapped and skill rate levelling tweaks.
-  > Journey includes a custom skill uncapper preset that tweaks skill levelling rates.
+  > Journey Together includes a custom skill uncapper preset that tweaks skill levelling rates.
 - [Antiquary](https://www.nexusmods.com/skyrimspecialedition/mods/44413) - An overhaul of Skyrim's artifacts to feel more potent while still not breaking the game's balance.
 - [Amalgam](https://www.nexusmods.com/skyrimspecialedition/mods/66283) - An overhaul of giants, animals, and spriggans to provide better scaling across levels and provide more realistic  animal behaviour
 - [Haugbui](https://www.nexusmods.com/skyrimspecialedition/mods/26188) - An overhaul to draugr  to provide better balance, new itmes, unique bosses and more variety.
@@ -121,7 +121,7 @@ In addition to SimonRim, Journey rounds out the experience with:
 
 ## Quest Timing
 
-To maintain a proper sense of progression and a better balanced experience, Journey uses [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464), [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427), and [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) to adjust the levels at which various quests and content start.
+To maintain a proper sense of progression and a better balanced experience, Journey Together uses [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464), [Radiant Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/45427), and [Rebalancing Anniversary Edition - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) to adjust the levels at which various quests and content start.
 
 | Content Source | Content Name | Min Lvl |
 | :------------- | :----------- | :------:|

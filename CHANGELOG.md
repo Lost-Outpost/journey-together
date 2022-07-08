@@ -1,9 +1,9 @@
-<a href="https://raw.githubusercontent.com/SiraMirai/journey/main/images/Jourmby.png"><img src="/images/Journey Banner3.webp" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/Jourmby.png"><img src="/images/Journey Together Banner3.webp" target="_blank"></a>
 
 ---
 
 <p align="center">
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/SiraMirai/journey/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/SiraMirai/journey-together/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/SiraMirai/journey-together/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
 </p>
 
 ---
@@ -556,7 +556,7 @@
 
 ## Version 1.0 Beta 5
 #### Not savegame compatible with Beta 4. Use old saves at your own risk.
-- Included new Graphical Presets for Journey. The new default is High. Prior versions graphical settings are now Ultra
+- Included new Graphical Presets for Journey Together. The new default is High. Prior versions graphical settings are now Ultra
 - Mysticism updated to version 2
 - Adamant updated to version 5.4
 - Assorted Mesh Fixes updated to version 0.47
@@ -592,12 +592,12 @@
 - Replaced Cathedral Landscapes dirt textures with ones from Skyland Landscapes
 - Stopped R.A.S.S. Configuration book from being added on new game.
 - Stopped Skyshards configuration book from being added on a new game, set default quest system to lite and default shards per perk point to 9. 
-  - This can be toggled off easily by disabling “Journey Skyshard Tweaks” in the mod list.
+  - This can be toggled off easily by disabling “Journey Together Skyshard Tweaks” in the mod list.
 - Fixed an issue with dark grey snow during winter season.
 - Set RaceMenuPlugin.esp from RaceMenu as hidden by default.
 - Set RaceMenuMorphsCBBE.esp from CBBE as hidden by default.
 - Deleted impwooddoorsingle01.nif and impwooddoorsingleload01.nif to remove incompatibility with SRO textures.
-- Created custom grass patch for Journey
+- Created custom grass patch for Journey Together
 - Included fix for Dawnstar’s walls from Capitals and Towns of Skyrim.
 - Removed Morthal gate from Capitals and Towns for better consistency.
 - Disabled Improved Camera’s head bob.

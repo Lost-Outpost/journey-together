@@ -1,9 +1,9 @@
-<a href="https://raw.githubusercontent.com/SiraMirai/journey/main/images/Jourmby.png"><img src="/images/Journey Banner3.webp" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/Jourmby.png"><img src="/images/Journey Together Banner3.webp" target="_blank"></a>
 
 ---
 
 <p align="center">
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/SiraMirai/journey/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/SiraMirai/journey-together/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/SiraMirai/journey-together/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
 </p>
 
 ---
@@ -17,11 +17,11 @@
 
 ## Mod Organizer 2 Profiles
 
-Journey comes with two profiles in MO2. Journey and Journey - Anniversary Edition. If you don't own Anniversary Edition and all of the creation club content that comes with it, play the default Journey profile. It contains the full Journey experience outside of creation club integration.
+Journey Together comes with two profiles in MO2. Journey Together and Journey Together - Anniversary Edition. If you don't own Anniversary Edition and all of the creation club content that comes with it, play the default Journey Together profile. It contains the full Journey Together experience outside of creation club integration.
 
 Select the profile you want here:
 
-![Profiles](https://raw.githubusercontent.com/SiraMirai/journey/main/images/config-profiles.png)
+![Profiles](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/config-profiles.png)
 
 ## Anniversary Edition
 
@@ -34,23 +34,23 @@ The Anniversary Edition profile requires a copy of all of the creation club mod 
 - Make sure all creation club content is enabled under the `Plugins` tab on the right pane in Mod Organizer 2.
 - If it is not, shift-click on `[NoDelete] Creation Club - Paid`, right click and select `Enable Selected`, and finally right click and select `Send to > Top`.
 
-When Creation Club content has been set up correctly, your Journey MO2 will look like this:
+When Creation Club content has been set up correctly, your Journey Together MO2 will look like this:
 
-![Anniversary Edition](https://raw.githubusercontent.com/SiraMirai/journey/main/images/config%20-%20ae%20enabled.png)
+![Anniversary Edition](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/config%20-%20ae%20enabled.png)
 
 ## ENB Organizer
-Journey includes the tool ENB Organizer for trying out different ENB and ReShade presets.
+Journey Together includes the tool ENB Organizer for trying out different ENB and ReShade presets.
 
 To change ENB or ReShade presets:
 - Run ENB Organizer from the left side bar in Mod Organizer 2 or from the exe list on the top right.
 
-![Executables](https://raw.githubusercontent.com/SiraMirai/journey/main/images/config-exemenu.png)
+![Executables](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/config-exemenu.png)
 
 - If ENB Organizer gives a warning about being unable to check for updates, click okay and ignore it.
 - In the left side menu, go to `Presets`.
 - Disable the currently enabled preset and then enable the one you wish to use.
 
-![ENB Organizer](https://raw.githubusercontent.com/SiraMirai/journey/main/images/config-enborganizer.png)
+![ENB Organizer](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/config-enborganizer.png)
 
 > Do not enable more than one preset at a time. If you want to enable the included Rudy ENB, you must enable `Rudy ENB - Required Files` under `Optionals` in MO2 and move the `Obsidian Weathers - Patch - Rudy ENB.esb` below `Obsidian Weathers.esp` in the plugins list.
 
@@ -58,16 +58,16 @@ To change ENB or ReShade presets:
 
 >For Improved performance, try turning off any ENB preset and enable one of the included reshade presets.
 
-Journey's default graphics settings are set to its `Medium` preset. For better performance or visuals, you can select one of the other included graphics configs included in the `Journey/Graphics Presets` folder into the `Profiles/[Journey]/[Journey - Anniversary Edition]` profile folder that you are using.
+Journey Together's default graphics settings are set to its `Medium` preset. For better performance or visuals, you can select one of the other included graphics configs included in the `Journey Together/Graphics Presets` folder into the `Profiles/[Journey Together]/[Journey Together - Anniversary Edition]` profile folder that you are using.
 
-![Graphics Options](https://raw.githubusercontent.com/SiraMirai/journey/main/images/graphics-options.png)
-![Graphics Options](https://raw.githubusercontent.com/SiraMirai/journey/main/images/graphics-options2.png)
+![Graphics Options](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/graphics-options.png)
+![Graphics Options](https://raw.githubusercontent.com/SiraMirai/journey-together/main/images/graphics-options2.png)
 
-Double click on `SSE Display Tweaks - Journey Settings` under `Patches & Fixes` and set the resolution to match your monitor resolution and remove the # at the start of the line.
+Double click on `SSE Display Tweaks - Journey Together Settings` under `Patches & Fixes` and set the resolution to match your monitor resolution and remove the # at the start of the line.
 
 ## Optionals
 
-Journey includes a small amount of optional content for you to play with, if you want.
+Journey Together includes a small amount of optional content for you to play with, if you want.
 
 ### Optional Tweaks
 
