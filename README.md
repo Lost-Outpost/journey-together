@@ -1,4 +1,4 @@
-<a href="https://raw.githubusercontent.com/Lost-Outpost/journey-together/main/images/Jourmby.png"><img src="/images/Journey Together Banner3.webp" target="_blank"></a>
+<a href="https://raw.githubusercontent.com/Lost-Outpost/journey-together/main/images/Jourmby.png"><img src="/images/Journey Banner3.webp" target="_blank"></a>
 
 ---
 
@@ -12,19 +12,22 @@
 
 **Modlist Support: [Lost Outpost](https://discord.gg/WF66mMu)**
 
-- [Introduction](#about-journey-together)
-	- [Gameplay](#gameplay)
-	- [Discussion and Support](#discussion-and-support)
-	- [List Contents](#list-contents)
+- [About Journey Together](#about-journey-together)
+		- [Gameplay](#gameplay)
+		- [Discussion and Support](#discussion-and-support)
+		- [List Contents](#list-contents)
 - [Installation](#installation)
-	- [Pre-Installation](#pre-installation)
-		- [Installing Microsoft Visual C++](#installing-microsoft-visual-c++-redistributable-x64)
-		- [Clean Skyrim](#clean-skyrim)
-		- [Start Skyrim](#start-skyrim)
-	- [Wabbajack Install](#wabbajack-install)
-		- [Initial Setup](#initial-setup)
-		- [Download and Installation](#download-and-installation)
-		- [Common Wabbajack Issues](#common-wabbajack-issues)
+			- [Stock Game](#stock-game)
+		- [Pre-Installation](#pre-installation)
+			- [Installing Microsoft Visual C++ Redistributable x64](#installing-microsoft-visual-c-redistributable-x64)
+			- [Clean Skyrim](#clean-skyrim)
+			- [Start Skyrim](#start-skyrim)
+		- [Wabbajack Install](#wabbajack-install)
+			- [Initial Setup](#initial-setup)
+			- [Download and Installation](#download-and-installation)
+			- [Common Wabbajack Issues](#common-wabbajack-issues)
+				- [Could not download](#could-not-download)
+				- [Wabbajack cannot find Skyrim folder](#wabbajack-cannot-find-skyrim-folder)
 - [Updating](#updating)
 - [Finishing Up](#finishing-up)
 
