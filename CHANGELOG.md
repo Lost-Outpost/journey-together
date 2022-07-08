@@ -1,0 +1,632 @@
+<a href="https://raw.githubusercontent.com/SiraMirai/journey/main/images/Jourmby.png"><img src="/images/Journey Banner3.webp" target="_blank"></a>
+
+---
+
+<p align="center">
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/SiraMirai/journey/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/SiraMirai/journey/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
+</p>
+
+---
+# Changelog
+## Version 1.2.0 [Unreleased]
+- Changed Skyrim version to 1.6.353
+- Added Beyond Skyrim - Bruma
+- Added Beyond Skyrim - Wares of Tamriel
+- Added Skyrim Wayshrines - Immersive Fast Travel
+- Added Beyond Skyrim in Skyrim
+- Added Bruma Signs SMIM Patch
+- Added Cloaks and Capes - Beyond Skyrim Bruma
+- Added Rare Curious - BS Bruma Synergy Patch
+- Added Goblins - Spear Addon and Bruma Patch
+- Added Plague of the Dead - BS Bruma Synergy Patch
+- Added The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined
+- Added Alyeid Consistency Suite
+- Added Red and Gold Wight Armor
+- Added Red and Gold Armor for Ayleid Wights (CC The Cause)
+- Added Wares of Wyrmstooth - Wares of Tamriel Alternate Location
+- Added Beyond Skyrim Bruma - Timing is Everything Patch
+- Added The Mage's College
+- Added College of Winterhold - Quest Expansion
+- Added Misc. College of Winterhold Tweaks
+- Added C.O.I.N. - Coins of Interesting Natures
+- Added C.O.I.N. - Merchant Exchange
+- Added Trade and Barter
+- Added Trade and Barter - Patches
+- Added Trade and Barter - Settings Loader
+- Added COIN - Open World Loot Patch
+- Added Legion - A Bruma Encounter Zone Overhaul
+- Added Blade and Blunt - Sneak Addon
+- Added Mysticism - Jump Spell Addon
+- Added Adamant - Smithing Addon
+- Added Hand to Hand - Armor Addon
+- Added Hand to Hand - Locksmith Addon
+- Added Thaumaturgy - Jump Boots Addon
+- Added Thaumaturgy - Weapon Enchantment XP Tweaks
+- Added Solstheim Caravan Trader
+- Added Creation Club Farming - Tweaks Enhancements and Quest Expansion
+- Added More Radient Quests for the Companions
+- Added Vittorias Alternate Wedding
+- Added Somebody Else's Problem - Ignore the Forsworn Conspiracy
+- Added Unquantum Forgemaster's Fingers
+- Added Hitting the Books - A Necromantic Grimoire Update
+- Added Skyrim's Got Talent
+- Added Flute Animation Fix
+- Added Bandit Lines Expansion - Dark Elf Addon
+- Added Talkative Dragons
+- Added Talkative Dragons - Less Talkative
+- Added Talkative Dragons Audio Replacer
+- Added RaceCompatibility SSE
+- Added Race Compatibility Dialogue SSE
+- Added Lost Races of Aetherius
+- Added Lilmothiit of Aetherius
+- Added Vanilla Hair Replacer
+- Added KS Hairdo's Lite
+- Added JS Rumpled Rugs SE
+- Added Oblivion - An Atronach Forge Overhaul
+- Added Harvest Your Blood for Septimus
+- Added SkyUI Weapons Pack
+- Added Animated Armoury - Animations Only
+- Added Automatic Animations - Including Icon Identification
+- Added Goetia Animations - Magic Spell Casting
+- Added DAR - Dynamic Swimming
+- Added Tools not weapons DAR animations
+- Added Sleeping Expanded - Animations and NPC reactions
+- Added The Cause - Rare Curios Patch
+- Added Wyrmstooth - Creation Club Ingredient Patches
+- Added Improvement Names Customized SSE
+- Added Remember Lockpick Angle
+- Added Unarmed Weapon Speed Scaling
+- Added Keyword Item Distributor
+- Added East Empire Company Armor
+- Added Distinct Interiors
+- Added Distinct Interiors Redux
+- Added Realistic Aspen Trees
+- Added Cathedral 3D Snowberries
+- Added Cathedral Snowberries - Inventory - Wreath - Hearthfires Planter
+- Added JS Attunement Sphere and Lexicons
+- Added JS Dwemer Control Cube
+- Added HD Meshes and Textures for Animal and Creature Drops
+- Added Hearthfire Crispy Dumplings
+- Added HD Bees and Honeycombs
+- Added True Homecooked Meals
+- Added Dear Diary Dark Mode
+- Added Curated Bosses for True HUD
+- Added Ethereal Immunity
+- Added Solitude Objects SMIMed - Castle Dour Spire and Solitude Well
+- Added Oblivion Symphonic Variations Remastered for Bruma
+- Added Songs to Play Skyrim To - All In One
+- Added Wilderness Witch Male Version
+- Added Wayfarer outfit with skirt as craftable option
+- Added Modern Toggle Walk-Run Fix SE
+- Added PrivateProfileRedirector
+- Added NIF Preview
+- Added Base Object Swapper
+- Added Practical Pirate Outfit HDT as optional
+- Added Wayfarer Outfit with Skirt HDT as optional
+- Moved HDT Cloaks and Capes to Optionals
+- 1.6 Update
+  - Updated SKSE
+  - Updated Address Library for SKSE
+  - Updated SSE Engine Fixes
+  - Updated Actor Limit Fix
+  - Updated Animated Static Reload Fix
+  - Updated Animation Motion Revolution
+  - Updated Auto Input Switcher
+  - Updated Better Jumping
+  - Updated Bug Fixes SSE
+  - Updated Combat Music Fix SKSE
+  - Updated ConsoleUtil SSE
+  - Updated Contextual Crosshair
+  - Updated Dynamic Animation Replacer
+  - Updated ENB Helper
+  - Updated ENB Input Disabler
+  - Updated Encounter Zones Unlocked
+  - Updated Enhanced Invisibility
+  - Updated Enhanced Reanimation
+  - Updated Faster HDT-SMP
+  - Updated Fix Notes for SkyUI
+  - Added I'm Walkin' Here
+  - Removed No Follower Collision
+  - Updated Improvement Names Customized
+  - Updated JContainers SE
+  - Updated Keyword Item Distributer
+  - Updated MCM Helper
+  - Updated MfgFix
+  - Updated  More Informative Console
+  - Updated MoreHUD
+  - Updated MoreHUD Inventory Edition
+  - Updated Oxygen Meter 2
+  - Updated PapyrusUtil
+  - Updated po3 Tweaks
+  - Updated RaceMenu
+  - Updated ScalformTranslationPP
+  - Updated Scrambled Bugs
+  - Updated Screenshot Helper
+  - Updated Security Overhaul SKSE
+  - Updated Skyrim Skill Uncapper
+  - Updated SmoothCam
+  - Updated Spell Perk Item Distributor
+  - Updated Stay At The System Page
+  - Updated Stop On Slash
+  - Updated Storm Lightning for SSE
+  - Updated Survival Control Panel
+  - Updated True Directional Movement
+  - Updated TrueHUD
+  - Updated Unique Map Weather Framework
+  - Updated Wash That Blood Off
+- Updated Unofficial Skyrim Special Edition Patch
+- Updated Unofficial Skyrim Creation Club Content Patch
+- Updated Aetherius - A Race Overhaul
+- Updated Mysticism - A Magic Overhaul
+- Updated Adamant - A Perk Overhaul
+- Updated Mundus - A Standing Stones Overhaul
+- Updated Blade and Blunt - A Combat Overhaul
+- Updated Apothecary - An Alchemy Overhaul
+- Updated Pilgrim - A Religion Overhaul
+- Updated Thaumaturgy - An Enchanting Overhaul
+- Updated Hand to Hand - An Adamant Addon
+- Updated Arachnomacy - A Spider Scrolls Overhaul
+- Updated Dragon War - A Dragon Overhaul
+- Updated Bonemold in Solstheim
+- Updated Pirate's Life for Me - A Creation Club Integration Mod
+- Updated Cathedral Armory
+- Updated Happy Little Trees
+- Updated Happy Little Trees Add-On - DynDOLOD 3
+- Updated Security Overhaul SKSE - Add-ons
+- Updated JK's Blue Palace
+- Updated Whiterun Watchtower Doesn't Start Broken
+- Updated More Wooden Bridges
+- Updated Nilheim Wood Pass
+- Updated Cleaned Skyrim SE Textures
+- Updated Fixed Mesh Lighting
+- Updated Major Cities Mesh Overhaul
+- Updated Assorted Mesh Fixes
+- Updated Static Mesh Improvement Mod Improvement Mod
+- Updated Solitude Objects SMIMed - Festival Ropes
+- Updated JS Shrines of the Divines
+- Updated Paarthurnax - Quest Expansion
+- Updated zzjay's Horse Overhaul
+- Updated Simplest Horses
+- Updated NPCs Wear Amulets of Mara
+- Updated Immersive Patrols
+- Updated Honorhall Orphanage Bugfixes and Expansion
+- Updated Caught Red Handed - Quest Expansion
+- Updated MoreHUD
+- Updated More Informative Console
+- Updated Conditional Expressions
+- Updated Conditional Armor Type Animations
+- Updated Simple Dual Sheath
+- Updated Soaking Wet
+- Updated SSE Display Tweaks
+- Removed KS Hairdos
+- Removed The Fork of Horripilation
+- Removed The Rings of Old
+- Removed CritterSpawn Gongestion Fix
+- Removed Economy Overhaul and Speechcraft Improvements
+- Removed Disable Follower Collision (function included in I'm Walkin' Here)
+- Removed Songs to Explore To (included in AIO)
+- Removed Songs to Eat Venison To (included in AIO)
+- Removed No Levelled Uniques (Redundant with Open World Loot)
+- Removed aMidianBorn Stormcloak Officer Armour (Now included in Cathedral Armory)
+- Fixed Nighteye not functioning properly with default Rudy ENB
+
+## Version 1.1.2.1
+- Removed Improved Camera optional due to beta being down
+- Fixed install issue due to SKSE
+
+## Version 1.1.2
+- Added Mari's Flora
+- Added Flora Mod Collection
+- Added Cathedral - 3D Clovers
+- Added Centered Sneak Meter + Compass on top combined optional
+- Fixed Forsworn Dagger tempering recipe
+- Removed Level Up Menu (but with messages) due to CTD issues
+
+## Version 1.1.1
+- Added Goetia Animations - Male Idle Walk And Run
+- Added Goetia Animations - Female Idle Walk And Run
+- Added JS Dwemer Puzzle Cube
+- Added Cathedral - 3D Lavender
+- Added Cathedral Weathers - Storm Audio
+- Added Conditional Expressions - Subtle Face Animations
+- Added Disable Follower Collision
+- Added Player Rotation in ShowRaceMenu
+- Added No Killmoves (Optional)
+- Added Complete Widescreen Fix (Optional)
+- Added Mfg Fix
+- Added Immersive HD Banners
+- Updated Cathedral - 3D Mountain Flowers
+- Updated Cathedral - 3D Cotton Tundra
+- Updated Soaking Wet
+- Updated More Informative Console
+- Updated Dragon War - Rescaled
+- Fixed floating smoke in Mistveil Keep
+- Swapped default ENB to Rudy for Obsidian
+
+## Version 1.1.0.1
+- Fixed ovewritten Embers XD mesh
+- Fixed grass issue without ENB from ENB complex grass textures being present
+
+## Version 1.1.0
+- Added Soaking Wet - Character Wetness Effect
+- Added Raven Rock Enhanced
+- Added Skyrim Remastered - Glaciers and Ice
+- Added Cathedral Night Skies
+- Added Nilhelm Wood Pass
+- Added Lanterns of Skyrim II
+- Added Embers XD
+- Added Inferno - Fire Effects Redux
+- Added Enhanced Lights and FX
+- Added ELFX - Hearthfire Light Addon
+- Added ELFX Fixes
+- Added ELFX SMIM FPS Performance Patch
+- Added HPP - My Fixes - Hay
+- Added Veydosebrom Regions
+- Added Folkvangr
+- Added QW's Grass Patch
+- Added A Clear Map of Skyrim
+- Added Unique Map Weather Framework
+- Added Farmhouse Chimneys
+- Added Cathedral - 3D Thistle
+- Added Cathedral - 3D Tudra Cotton
+- Added Iconic Statues
+- Added SMIM Barrel Expansion
+- Added Solitude Objects SMIMed - festival ropes
+- Added JK's Dragonsreach
+- Added JK's Blue Palace
+- Added JK's Palace of the Kings
+- Added JK's Mistveil Keep
+- Added JK's Understone Keep
+- Added JK's Sky Haven Temple (Interior Only)
+- Added JK's Interiors Lite
+- Added Eastern Dwemer Towers of Solstheim
+- Added JS Dwemer Artefacts
+- Added JS Dwemer Ichor Barrels
+- Added JS Dwemer Kitchenware
+- Added JS Dwarven Oil
+- Added JS Essence Extractor
+- Added Beyond Skyrim Morrowind - Bonemold Weapon Pack
+- Added Bonemold Weapon Pack - aMidianBorn Color Match
+- Added Bonemold in Solstheim - An Integration Mod
+- Added Pirates Wield Cutlasses
+- Added Pirates Wield Scurvy Cutlasses
+- Added Sexier Vanilla - Guards - Immersion Tweaks
+- Added Cloaks and Capes
+- Added Dragon War - Rescaled
+- Added Open World Loot
+- Added Open World Loot - Vanilla Progression
+- Added OWL - Full Creation Club Integration
+- Added Simplest Horses
+- Added Crystal Mudcrabs
+- Added WACCF ACE Lite
+- Added Simple Wearable Lanters
+- Added Honorhall Orphanage Bugfixes and Expansion
+- Added Stay at New Gnisis Cornerclub
+- Added Allow Dialogue Progress Bugfix
+- Added CritterSpawn Congestion Fix
+- Added Stay At System Page
+- Added Realistic Dog Sounds
+- Added Realistic Husky Sounds
+- Added Sound Hammering Sounds
+- Added Leviathan Animations - Two-Handed High Stance
+- Added Leviathan Animations - Two-Handed Normal Attacks
+- Added Leviathan Animations - Two-Handed Power Attacks
+- Added Fish Plaque Fix
+- Added Cathedral - 3D Black Mountain Flowers - for Interesting NPCs
+- Added Sidequests of Skyrim
+- Added Dovahkiin's Vault
+- Added Ish's Respec Mod
+- Added Planewalker font to Optional
+- Added Hoth - Bounty Hunter
+- Added Combat Music Fix SKSE
+- Added Forgotten City Music Bug Fixer
+- Added Forgotten City Decree Music Spell Fix
+- Replaced Dwarven Armour and Weapon textures with aMidianBorn
+- Changed included followers to be enabled by default
+- Readded SkyUI - Survival Mode Integration
+- Updated Skyland AIO
+- Updated Contextual Camera
+- Updated Stop On Slash
+- Updated Nilhelm - Quest Expensaion
+- Updated Bounty Quests Count for Thanehood Progress
+- Updated Carriage Service for Goldenhills Plantation
+- Updated Assorted Mesh Fixes
+- Updated Realistic Water Two
+- Updated Pristine Vanilla Movement
+- Removed Septentrional Landscapes
+- Removed Quant Raven Rock
+- Removed Relighting Skyrim
+- Removed Ambiance
+- Removed Missives
+- Removed Embers HD
+- Removed Ultimate HD Fire Effects
+- Removed Cathedral Landscapes
+- Removed Skyrim Flora Overhaul
+- Removed Enhanced Landscapes Grasses
+- Removed Winter is Coming
+- Removed Cloaks of Skyrim
+- Removed Wonders of Weather due to CTD issues in main story
+- Reverted some backend tweaks for better download reliability
+- Swapped Enhanced Blood Textures Full to Lite
+- Moved s6o6t LORE - Mundus Stones to Optionals
+- Added Optional: No Shield On Back - Equipped
+- Added Optional: No Shield On Back - Favourited
+
+
+## Version 1.0.3.1
+- Removed The Dwemer (Taken down from the Nexus)
+
+
+## Version 1.0.3
+- Added Arachnomancy - A Spider Scrolls Overhaul.
+- Added Vanargand Animations - Sneak Crossbows.
+- Added MD's HD Farmhouses wood textures.
+- Tweaked melee weapon range for better combat feel.
+- ENB Tweaks.
+- Fixed Sven facegen bug.
+- Tweaks to backend.
+
+
+## Version 1.0.2
+- Added True Directional Movement
+- Added Level Up Menu (But With Messages)
+- Added Convenient Dialogue UI
+- Added Shadows of Sunlight - In Small Exterior World Spaces
+- Added Bleak Falls Barrow - No Ice Meshes in Troll Pit
+- Added Timing Is Everything
+- Added Sexier Vanilla - Guards
+- Added CC Wild Horses and Zzjay's HO
+- Added Hale - Horse Retextures
+- Added Bald Head Hair Style
+- Added Beards of Power
+- Added Community Overlays
+- Added No Spinning Death Animation
+- Added Neutral Hjerim
+- Added Scene Tweak - Companions Werewolf Bloodritual
+- Added The Companions - Don't Be a Milk Drinker
+- Removed Dawnguard Delayed and Dragonborn Delayed
+- Removed Flying Crows
+- Removed Realistic Horse Breeds
+- Removed NPC Animation Remix, Gesture Animation Remix, and Immersive folded hands
+- Removed Serio's Headtracking
+- Removed Leviathan Animations - Two-Handed High Stance, Normal Attacks, and Power Attacks
+- Removed Dialogue Interface ReShaped
+- Tweaks to tundra grasses
+- Tweaks to default ENB for colour balance and fixing nighttime fog brightness
+- Changed default graphics preset to Medium
+- Changed level at which Dawnguard DLC starts
+- Fixed housing prices back to vanilla prices
+- Bugfixes and additional conflict resolution and tweaks
+
+
+## Version 1.0.1
+- Set First Person Camera Height Fix to enabled by default
+- Set Improved Camera to disabled by default
+- Included optional Improved Camera preset with head-bob but no clipping
+- Updated Unofficial Skyrim Creation Club Content Patch to 6.5
+- Updated Mysticism to 2.0.5
+- Updated Pilgrim to 1.0.14
+- Updated Webmetz’s Growables - Wyrmstooth to 1.1.0
+- Updated Immersive Folded Hands to 1.2.0
+- Updated NPC Animation Remix to 1.1.0
+- Updated Gesture Animation Remix to 1.1.0
+- Added Optional Quick Start - SE
+- Added Weather of World
+- Added True Storms
+- Added True Storms - Obsidian Weather Patch
+- Added Reverb and Ambiance Overhaul
+- Added Carriage Service for Goldenhills Plantation
+- Added Skyrim Sewers 4 and Saints and Seducers Patch
+- Added Fast Travel for Survival Mode to [Optionals]
+- Removed Ralof or Hadvar
+- Removed Project Clarity AIO
+- Replaced Unofficial Performance Optimized Textures with Cleaned Skyrim SE Textures
+- Tweaks to Winter is Coming and Cloaks of Skyrim for balance
+- Tweaks to Optional Quick Start to provide a more seamless new game experience
+- Tweaks to Campsite for convenience
+
+
+## Version 1.0.0
+- Added full AE CC integration
+- Custom Main Menu
+- Tweaked SSE Display Tweaks settings.
+- Further Improved Camera Tweaks
+- Tweaked Cathedralist Redux ENB
+- Added Rudy ENB as an optional.
+- Changed texture base from Skyrim Realistic Overhaul to Skyland
+- Changed from Cathedral Weather to Obsidian Weathers
+- Changed from Cathedral Water to Realistic Water Two and Water for ENB
+- Further tweaks and improvements to grasses
+- Replaced Rustic Mountains with Polar Peaks
+- Replaced Sunhelm with Mode Improved for better CC integration
+- Replaced Voltage with Near Voltage - Purple Edition
+- Implemented winter season support for Wyrmstooth
+- Updated Mysticism to 2.0.4
+- Updated Adamant to 5.4.3
+- Updated Hand to Hand to 1.1.13
+- Updated Pilgrim to 1.0.13
+- Updated Thaumaturgy to 1.1.6
+- Updated Stop on Slash
+- Added Animated Static Reload Fix
+- Added Amalgam
+- Added Antiquary
+- Added Main Menu Design Replacer
+- Added ConsoleUtilSSE
+- Added LOD Unloading Bug Fix
+- Added ENB Input Disabler
+- Added TrueHUD, MoreHUD, SmoothCam, MoreHud Inventory Edition, Oxygen Meter 2, and Toggle Compass Hotkey
+- Added Menu and Load Smoke Removed for ENB
+- Added The Only Cure, House of Horrors, Nilheim, and Caught Red Handed Quest Expansions
+- Added Finding Helgi and Laelette, Finding Susanna Alive, and Finding Velehk Sain
+- Added NPCs Wear Amulets of Mara
+- Added Missives Notes Retexture and Worldspace Addtions
+- Added Webmetz’s Growables for Wyrmstooth and Interesting NPCs
+- Added Attunement Sphere and Lexicon Distributor
+- Added Radiant Requirements
+- Added Bounty quests count for Thanehood progress SE
+- Added Whiterun Watchtower Doesn’t Start Broken
+- Added Near Vanilla Project - Portal to Sovngarde Redone, Queen Bee Statue Redone,  College of Winterhold Floor, and Control Cube Redone
+- Added Spider Webs and Particles for ENB
+- Added Wyrmstooth Upscaled Textures
+- Added JS Purses and Septims, Bloodstone Chalice, Initiate’s Ewer, Shrines of the Divines, and Instruments of Skyrim
+- Added Solstheim Objects SMIMed - High Poly Dark Elf Furniture
+- Added Fixed Mesh Lighting and Fixed Mesh Lighting - Hearthfire
+- Added Rustic Furniture, Maps, Cooking, Clutter Collection, and Soul Gems
+- Added Whiterun Mesh Fixes
+- Added Dlizzio’s Mesh Fixes
+- Added 3D Riften Trellis and Roofs
+- Added 3D Solitude Market Trellis
+- Added 3D Whiterun Trellis
+- Added Stockades of Skyrim 3d
+- Added Thrones of Skyrim
+- Added Added Orc Settlements Enhanced
+- Added Rally’s Manhole of Solitude
+- Added High Poly Project
+- Added Skyrim Remastered - Metal Cages and SMIM Imperial Jails and High Hrothgar v2
+- Added Rudy HQ - Miscellaneous
+- Added Underground - A Dungeon Texture Overhaul
+- Added The Dwemer
+- Added Rally’s Solstheim AIO
+- Added Septentrional Landscapes, Northern Shores, and Polar Peaks
+- Added Bright Waterfall Fix for ENB
+- Added Blacksmith Forge Water Fix
+- Added Less Distracting Blowing Snow Effects
+- Added Kabu’s Argonian Fins
+- Added Forgotten Argonian Roots
+- Added More to Say
+- Added Quiet Dog
+- Added Bard Instremntals Mostly - Sing Rarely
+- Added Forgotten Creatures
+- Added Bellyaches Animal and Creature Pack
+- Added Bellyaches HD Dragon Replacer Pack
+- Added Troll, Giant, Hagraven, Wispmother and Falmer by Kajuan
+- Added zzjay’s Horse Overhaul
+- Added Wayfarer's Coat
+- Added Vanargand Animations - Crossbows
+- Added Draw 2 - Dual Weapon Equip-Unequip Animations
+- Added Draw 2 - Settings Loader
+- Added Realistic Paper
+- Added High Quality Food and Ingredients
+- Added Literally Unplayable - The Forgotten City Patch
+- Added Save the Icerunner - Lights Out Alternate Routes
+- Added Improved College Entry - Questline Tweaks
+- Added A Lovely Letter Alternate Routes
+- Added True Teacher Durnehviir
+- Added Silence is Golden
+- Added Quests Are In Skyrim
+- Added Improved Companions - Questline Tweaks
+- Added Proving Honour Companions Quest Progression Fix
+- Added King Olaf’s Fire Festival Not Ending Fix
+- Added Stackable Stones of Barenziah
+- Added No Grass in Caves
+- Added Butterflies Land True
+- Added Butterflies Unchained
+- Added eFPS
+- Added .NET Script Framework for crashlogging
+- Mods added For Creation Club Integration:
+  - Saints and Seducers - Rare Curios - Growable Plants
+  - Rebalancing Anniversary Edition - Quest Requirements
+  - Skyrim Anniversary - Growable Plants
+  - Creation Club - Adjustments, Rebalancing, and Variants
+  - Curated Curios - A Creation Club Integration Mod
+  - Arcane Accessories - Rebalance Patch
+  - Creation Club Integration - Armors
+  - Crossbow Integration
+  - Baggage - Another CC Backpacks Rebalance
+  - Fearsome Fists - Thaumaturgy Consistency Patch
+  - The Vigilants’ New Clothes - A Creation Club Integration Mod
+  - Morrowind Threads -  A Creation Club Integration Mod
+  - Ghosts of the Tribunal - Solstehim Integration
+  - Knight of the North
+  - Pirate’s Life for Me
+  - Creation Club Backpacks for NPCs
+  - Horse armor no longer disappears
+  - CC Goldenhills Plantation - Remove Shrine Cost in Survival
+- Added Optional Companion: Glady the Corgi
+- Added Optional Companion: Merlin the Corgi
+- Changed Particle Patch for ENB to Nexus version
+- Remove Chrysamere
+- Removed Rally’s Water Foam
+- Removed Helgen Reborn
+- Removed Masculine and Feminine Argonians
+- Moved Ralof or Hadvar to optionals
+- Moved Improved Camera to optionals
+- Misc tweaks for functionality and a cleaner load order.
+
+
+## Version 1.0 Beta 5
+#### Not savegame compatible with Beta 4. Use old saves at your own risk.
+- Included new Graphical Presets for Journey. The new default is High. Prior versions graphical settings are now Ultra
+- Mysticism updated to version 2
+- Adamant updated to version 5.4
+- Assorted Mesh Fixes updated to version 0.47
+- Water Effects Brightness and Reflection Fix updated to 0.4
+- Immersive Equipment Displays updated to 1.4.1
+- Alyeid Ruins ENB Light updated to 0.2
+- Updated JK’s Jorrvaskr to 1.1.2
+- DynDOLOD Resources updated to Alpha 23
+- Included version of DynDOLOD updated to Alpha 85
+- Added Landscape Fixes for Grass Mods
+- Added Terrain Fixes for CC Mods
+- Added Skyland Landscapes
+- Added Skyrim Flora Overhaul Grasses
+- Added Enhanced Landscapes - Grass
+- Added Skyrim - A Mountainous Experience
+- Added Unique Goldenglow Estate Crossing
+- Added Haugbui - A Draugr Overhaul
+- Added Smaller Vanilla Cursors.
+- Added Forgotten City - No Audiobooks
+- Added Interesting Follower Requirements for Interesting NPCs
+- Added Interesting NPCs - Zora Fairchild’s Voice Boosted
+- Added Cloud’s Family Friendly NPCs - Interesting NPCs
+- Added Windhelm Fence 3D
+- Added Deadly Spell Impacts
+- Added Embers HD
+- Added Sanguine - Enhanced Blood Retexture SE
+- Added Alchemy Ingredients ENB Light
+- Added Cathedral Assets Optimizer, NifOptimizer, and NifSkope to included tools.
+- Removed Unique Uniques
+- Removed Lucidity Sound FX SSE
+- Removed Bound Dagger CTD Fix as it is no longer necessary with Mysticism 2
+- Replaced Cathedral Landscapes riverbed textures with the ones from Skyrim Realistic Overhaul
+- Replaced Cathedral Landscapes dirt textures with ones from Skyland Landscapes
+- Stopped R.A.S.S. Configuration book from being added on new game.
+- Stopped Skyshards configuration book from being added on a new game, set default quest system to lite and default shards per perk point to 9. 
+  - This can be toggled off easily by disabling “Journey Skyshard Tweaks” in the mod list.
+- Fixed an issue with dark grey snow during winter season.
+- Set RaceMenuPlugin.esp from RaceMenu as hidden by default.
+- Set RaceMenuMorphsCBBE.esp from CBBE as hidden by default.
+- Deleted impwooddoorsingle01.nif and impwooddoorsingleload01.nif to remove incompatibility with SRO textures.
+- Created custom grass patch for Journey
+- Included fix for Dawnstar’s walls from Capitals and Towns of Skyrim.
+- Removed Morthal gate from Capitals and Towns for better consistency.
+- Disabled Improved Camera’s head bob.
+- Disabled Improved Camera’s first-person bow kill moves.
+- Changed Engine Fixes SSE settings to half wait and sleep time
+- Tweaked default SkyHUD preset to put Interaction Icons over crosshair for better consistency.
+- Overhaul to Uncapper preset to slow down early-game levelling from being way too fast.
+- Created secondary SkyHUD preset for centred Sneak meter
+- Tweaked Stop on Slash settings to have less Slow-Motion effect.
+- Tweaked Cathedralist Redux and Cathedralist Fantasy to be in line with changes made to A Cathedralist’s ENB
+- Removed A Cathedralist’s ENB and Cathedral Minimalist ENB
+- Tweaked Cathedralist Redux and Cathedralist Fantasy for better performance.
+- Fixed BodySlide default output folders.
+- Fixed arguments with xEdit, xLODGen, TexGen, and DynDOLOD for Stock Game feature.
+- Stopped empty FNIS and Bashed Patch mod folders from being created.
+
+
+## Version 1.0 Beta 4.3
+- Added Cathedralist Redux and Cathedralist Fantasy as ENB options.
+- Tweaked Cathedralist ENB for better Exterior Night visibility under balconies.
+- Removed True 3D Sound for Headphones for better audio experience.
+- Replaced Ambiance full ESP in exchange for it's Darker Interior Fog ESP.
+- Added Creation Club - Adjustments, Rebalancing, and Variants rebalances for Fishing and Saints and Seducers.
+- Replaced AllGUD with Simple Dual Sheath and Immersive Equpment Displays.
+
+## Version 1.0 Beta 4.2
+- Changed the setup for ENB Organizer so that the binaries don't have to be swapped off separately of ENB and ReShade profiles.
+- Added Cathedral Vision Reshade and DaVinci Reshade.
+- Removed Nemesis Output from inline and referred to file from Nexus page.
+
+## Version 1.0 Beta 3
+Initial Beta phase release. Lots to be done still!
