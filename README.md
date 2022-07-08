@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/SiraMirai/journey-together/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/SiraMirai/journey-together/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/Lost-Outpost/journey-together/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/Lost-Outpost/journey-together/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/Lost-Outpost/journey-together/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/Lost-Outpost/journey-together/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/Lost-Outpost/journey-together/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
 </p>
 
 ---
@@ -38,7 +38,7 @@ Journey Together is designed and made for Skyrim: Special Edition with full supp
 
 ### Gameplay
 
-Journey Together's aims with gameplay modification is to remain unintrusive while enhancing the core mechanics in a way that remains true to the spirit of Skyrim's core design. You can see the full details of what has changed in Journey Together's gamplay [here](https://github.com/SiraMirai/journey-together/blob/main/GAMEPLAY.md).
+Journey Together's aims with gameplay modification is to remain unintrusive while enhancing the core mechanics in a way that remains true to the spirit of Skyrim's core design. You can see the full details of what has changed in Journey Together's gamplay [here](https://github.com/Lost-Outpost/journey-together/blob/main/GAMEPLAY.md).
 
 ### Discussion and Support
 
@@ -93,7 +93,7 @@ The installation process can take some time depending on your system specs. It i
   
 6. Click the Start button and wait for Wabbajack to install the modlist.
 
-7. Set up Creation Club content for the Anniversary Edition profile using the instructions [here](https://github.com/SiraMirai/journey-together/blob/main/CONFIGURATION.md#anniversary-edition).
+7. Set up Creation Club content for the Anniversary Edition profile using the instructions [here](https://github.com/Lost-Outpost/journey-together/blob/main/CONFIGURATION.md#anniversary-edition).
   
 
 #### Common Wabbajack Issues
@@ -108,7 +108,7 @@ The other common cause of this error is a mod was updated and its old files were
 Wabbajack will not work with pirated copies of Skyrim. If you own the game on steam, return to [Pre-Installation](#pre-installation).
 
 # Updating
-When Journey Together releases an update, please check the [changelog](https://github.com/SiraMirai/journey-together/blob/main/CHANGELOG.md) before updating. **Always** back up your saves or start a new game after updating.
+When Journey Together releases an update, please check the [changelog](https://github.com/Lost-Outpost/journey-together/blob/main/CHANGELOG.md) before updating. **Always** back up your saves or start a new game after updating.
 
 Please note that Wabbajack will **delete all files that are not part of the modlist when it updates**! 
 
@@ -118,7 +118,7 @@ Updating follows the same process as installing, simply select the same path and
 
 # Finishing Up
 Before playing
-- Journey Together comes with several graphical presets included that you can read about [here](https://github.com/SiraMirai/journey-together/blob/main/CONFIGURATION.md#graphics-options).
-- Make sure you follow the guid for [setting up creation club content](https://github.com/SiraMirai/journey-together/blob/main/CONFIGURATION.md#anniversary-edition).
-- Choose what ENB or ReShade preset you want using [ENB Organizer](https://github.com/SiraMirai/journey-together/blob/main/CONFIGURATION.md#enb-organizer)
-- Journey Together also comes with several other optionals including alternative profiles and optional companions. You can read about them [here](https://github.com/SiraMirai/journey-together/blob/main/CONFIGURATION.md#optionals).
+- Journey Together comes with several graphical presets included that you can read about [here](https://github.com/Lost-Outpost/journey-together/blob/main/CONFIGURATION.md#graphics-options).
+- Make sure you follow the guid for [setting up creation club content](https://github.com/Lost-Outpost/journey-together/blob/main/CONFIGURATION.md#anniversary-edition).
+- Choose what ENB or ReShade preset you want using [ENB Organizer](https://github.com/Lost-Outpost/journey-together/blob/main/CONFIGURATION.md#enb-organizer)
+- Journey Together also comes with several other optionals including alternative profiles and optional companions. You can read about them [here](https://github.com/Lost-Outpost/journey-together/blob/main/CONFIGURATION.md#optionals).

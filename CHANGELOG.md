@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/SiraMirai/journey-together/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/SiraMirai/journey-together/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/SiraMirai/journey-together/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/65229"?>Nexus Page</a> | <a href="https://github.com/Lost-Outpost/journey-together/blob/main/README.md"?>Readme</a> | <a href= "https://github.com/Lost-Outpost/journey-together/blob/main/GAMEPLAY.md"?>Gameplay</a> | <a href= "https://github.com/Lost-Outpost/journey-together/blob/main/CONFIGURATION.md"?>Configuration</a> | <a href="https://github.com/Lost-Outpost/journey-together/blob/main/CHANGELOG.md"?>Changelog</a> | <a href="https://github.com/Lost-Outpost/journey-together/blob/main/SUPPORT.md"?>Support</a> | <a href="https://www.wabbajack.org/">Wabbajack</a>
 </p>
 
 ---
